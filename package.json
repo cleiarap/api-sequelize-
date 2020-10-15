@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleiarap/api-sequelize-.git"
+  },
+  "author": "Cleiton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleiarap/api-sequelize-/issues"
+  },
+  "homepage": "https://github.com/cleiarap/api-sequelize-#readme"
+}
